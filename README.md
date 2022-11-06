@@ -2,4 +2,4 @@
 
 for www.patika.dev/tr
 
-SQL ÖDEV 1
+SQL ÖDEVLERİN TAMAMI...
