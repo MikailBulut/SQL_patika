@@ -1,2 +1,5 @@
 # SQL_patika
-ÖDEV 1
+
+for www.patika.dev/tr
+
+SQL ÖDEV 1
